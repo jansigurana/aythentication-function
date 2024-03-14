@@ -1,0 +1,8 @@
+/* Write your CSS code here */
+
+.home {
+  flex-direction: center;
+  display: flex;
+  font-family: 'Roboto';
+  align-items: center;
+}
